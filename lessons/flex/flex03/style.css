@@ -1,0 +1,28 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+.left,
+.right {
+  display: flex;
+  align-items: center;
+}
+.logo {
+  color: purple;
+}
+ul {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+}
+a {
+  text-decoration: none;
+  margin: 05px;
+  color: purple;
+}
+button{
+      color:white;
+      background-color: purple;
+      border-radius: 5px;
+
+}

@@ -1,0 +1,20 @@
+body {
+  background-color:#eee;
+  font-family: sans-serif;
+}
+h1 {
+  margin: 12px;
+  background-color: aqua;
+}
+.para {
+  margin: 12px;
+  background-color: aqua;
+}
+.btn-container {
+  text-align: center;
+  background-color: aqua;
+}
+button {
+  display: block;
+  margin: 0 auto;
+}
