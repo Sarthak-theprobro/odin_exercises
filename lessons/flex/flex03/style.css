@@ -23,6 +23,13 @@ a {
 button{
       color:white;
       background-color: purple;
-      border-radius: 5px;
+      
 
+}
+.dp{
+  background-color: purple;
+      border-radius: 5px;
+      height: 48px;
+      width: 48px;
+      border-radius: 50%;
 }
