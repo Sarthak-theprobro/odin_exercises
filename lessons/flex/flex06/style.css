@@ -1,0 +1,46 @@
+
+body {
+  height: 100vh;
+  margin: 0;
+  overflow: hidden;
+  font-family: Roboto, sans-serif;
+}
+
+.container-top {
+  display: flex;
+  justify-content: space-between;
+}
+
+input {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  display: block;
+  margin: 0 auto;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+a {
+  text-decoration: none;
+  margin: 5px;
+}
+
+.buttons{
+    display: flex;
+    justify-content: center;
+}
+button {
+  border: 1px;
+  padding: 10px;
+  margin: 2px;
+  border-radius: 5px;
+}
+
+.container-bottom {
+  display: flex;
+  justify-content: space-between;
+  background-color: gray;
+}
